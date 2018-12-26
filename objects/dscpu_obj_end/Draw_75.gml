@@ -7,7 +7,7 @@ if (dscpu_obj_main.debug) show_debug_message("Step took " + string(__us) + " mic
 if (dscpu_obj_main.debug) show_debug_message("Frame should take " + string(__frametime) + " microseconds");
 if (dscpu_obj_main.debug) show_debug_message("Time left: " + string(__leftoverus) + " microseconds");
 
-if (__calculated_sleep > 500) {
+if (__calculated_sleep > 300) {
 	if (dscpu_obj_main.debug) show_debug_message("Calculated sleep: " + string(__calculated_sleep) + " microseconds");
 	dssleep_microseconds(__calculated_sleep);
 }

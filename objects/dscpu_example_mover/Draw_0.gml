@@ -13,7 +13,7 @@ if (keyboard_check_pressed(vk_space)) {
 	} else {
 		dscpu_init();
 		dscpu_set_debug(true);
-		dscpu_set_grace(1000); //Not required - default value is 1000.
-		dscpu_set_tightness(0.9); //Not required - default value is 0.9.
+		dscpu_set_grace(500); //Not required - default value is 500.
+		dscpu_set_tightness(0.95); //Not required - default value is 0.9.
 	}
 }
