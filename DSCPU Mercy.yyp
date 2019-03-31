@@ -47,43 +47,11 @@
             }
         },
         {
-            "Key": "09865d2b-bc38-409d-94c1-df5608c1a307",
-            "Value": {
-                "id": "a5cbc930-a0dd-4a27-91cb-e0956320a371",
-                "resourcePath": "views\\09865d2b-bc38-409d-94c1-df5608c1a307.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "104ac3a3-936a-40b7-90c9-5282a83416b6",
-            "Value": {
-                "id": "e02cd71a-8dd0-4e93-ac98-7f93a3116f85",
-                "resourcePath": "views\\104ac3a3-936a-40b7-90c9-5282a83416b6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "1dacf0f7-5f19-431b-9abf-35d6317aec94",
             "Value": {
                 "id": "9654d965-4623-41a1-9d1f-55ba1080fcb2",
                 "resourcePath": "views\\1dacf0f7-5f19-431b-9abf-35d6317aec94.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "27b9d127-9e6b-49cd-8bca-8229e33f6eaf",
-            "Value": {
-                "id": "1e804199-7b99-483d-9d94-a2c8ad2d3b61",
-                "resourcePath": "scripts\\dssleep_seconds\\dssleep_seconds.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "285bb329-10f3-4d05-b1d7-3ac8614f0ad9",
-            "Value": {
-                "id": "55117cd7-1b74-49d2-b932-1fa8477ec96f",
-                "resourcePath": "datafiles_yy\\DSSleep.so.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -103,27 +71,11 @@
             }
         },
         {
-            "Key": "3f46d855-93e8-4dc2-9b40-5b814634f409",
-            "Value": {
-                "id": "2bb92a07-4e94-4ce8-84c9-9c93ca57d3b5",
-                "resourcePath": "objects\\_dssleep_main\\_dssleep_main.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "40d650c8-b495-4b58-abd8-7fac4ea64e3d",
             "Value": {
                 "id": "48cb2e0c-d6ff-4273-988d-dd5b62a66bd8",
                 "resourcePath": "objects\\dscpu_obj_end\\dscpu_obj_end.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "45c33128-23c5-40fc-b68d-59aa94cdb79b",
-            "Value": {
-                "id": "d1a5ceec-a3db-403e-ab4c-51959a3836af",
-                "resourcePath": "views\\45c33128-23c5-40fc-b68d-59aa94cdb79b.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -159,14 +111,6 @@
             }
         },
         {
-            "Key": "52542f6c-ace7-4803-ac29-68f9f8f91915",
-            "Value": {
-                "id": "678d20be-545e-4df7-a88b-f006f9446f3e",
-                "resourcePath": "scripts\\dssleep_microseconds\\dssleep_microseconds.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "53b0c0c5-5d3e-40f9-b2ee-11d685abadc7",
             "Value": {
                 "id": "34fc558e-7a4a-4305-b5c3-6c14888d97db",
@@ -191,14 +135,6 @@
             }
         },
         {
-            "Key": "6accfa2d-c79e-4002-bda4-4b9474ab1d85",
-            "Value": {
-                "id": "756b36ef-2ba7-4683-9385-08429203df37",
-                "resourcePath": "extensions\\extension0\\extension0.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
             "Key": "6daea9d2-3282-4fb4-a765-eff17eb526ab",
             "Value": {
                 "id": "194401fc-09c6-4111-a7a5-8ff09b9f7087",
@@ -215,27 +151,11 @@
             }
         },
         {
-            "Key": "7510e8c9-b7cc-4d73-a2a0-48f7e7cd4f1c",
-            "Value": {
-                "id": "281c7c5a-5b65-45ce-bade-522ea757766f",
-                "resourcePath": "datafiles_yy\\DSSleep.dll.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "b7921653-b278-4597-9987-f5177e9405cf",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
-            }
-        },
-        {
-            "Key": "76ed9709-d742-48fe-b47d-3b78e996bc5a",
-            "Value": {
-                "id": "e3f7d20b-cbb0-4080-8fc3-0028491eb4be",
-                "resourcePath": "views\\76ed9709-d742-48fe-b47d-3b78e996bc5a.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -279,14 +199,6 @@
             }
         },
         {
-            "Key": "91d20c15-bfe0-47eb-86d1-272a4233e451",
-            "Value": {
-                "id": "2e11030c-9ef8-4469-a76f-0795e6458953",
-                "resourcePath": "scripts\\dssleep_is_initialized\\dssleep_is_initialized.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "94facb63-fe4d-418c-8b94-59db8b9f7d98",
             "Value": {
                 "id": "c767b4c5-2913-4b49-b37e-a6a6d6cfd23a",
@@ -295,26 +207,10 @@
             }
         },
         {
-            "Key": "968e3559-8468-4699-9c7d-f768a747e1b1",
-            "Value": {
-                "id": "ff8dc82d-c27f-445c-921b-60adef6acbb2",
-                "resourcePath": "scripts\\dssleep_minutes\\dssleep_minutes.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "9a86d316-d97e-4649-9e25-60aa885a10e6",
             "Value": {
                 "id": "0e5536a3-62f7-4624-a01a-496120793c55",
                 "resourcePath": "views\\9a86d316-d97e-4649-9e25-60aa885a10e6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9a8df761-efb1-4777-82f5-fc34c78d8ba4",
-            "Value": {
-                "id": "b011f231-1bb4-430a-b366-1ed5dff8839f",
-                "resourcePath": "views\\9a8df761-efb1-4777-82f5-fc34c78d8ba4.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -351,42 +247,10 @@
             }
         },
         {
-            "Key": "b2e5f0ba-7637-4b2e-afc4-6d2b2e1c71d1",
-            "Value": {
-                "id": "0351345d-6383-4940-8163-00cfa6da414c",
-                "resourcePath": "scripts\\dssleep_nanoseconds\\dssleep_nanoseconds.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "b3a599ac-c278-4c04-bd1e-5383bdd78c0d",
             "Value": {
                 "id": "84cb189e-2b26-402d-a4b2-dea15d1565fe",
                 "resourcePath": "scripts\\dscpu_set_grace\\dscpu_set_grace.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "b55eca59-9e54-453c-ba97-e38ffc5dd7d4",
-            "Value": {
-                "id": "bab84b41-daec-4f77-bc22-b9b10784ec7c",
-                "resourcePath": "scripts\\dssleep_init\\dssleep_init.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "bcc5b920-f64b-41b0-b60d-93f0872ddef9",
-            "Value": {
-                "id": "e11650b7-3024-4294-b241-59b24ed688d4",
-                "resourcePath": "views\\bcc5b920-f64b-41b0-b60d-93f0872ddef9.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "be6377bb-8285-4c98-b4a6-f85ef40dbf7e",
-            "Value": {
-                "id": "19ac3e1b-9f8b-4cf8-8afc-de2e7c1a93c1",
-                "resourcePath": "scripts\\dssleep_milliseconds\\dssleep_milliseconds.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -404,14 +268,6 @@
                 "id": "baf06c0b-8750-4d5c-8fc7-bfd89af0f297",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cf14eddb-00ba-401d-842f-989a831b68c7",
-            "Value": {
-                "id": "986ec46d-ebe5-4d5f-a460-c2431157f580",
-                "resourcePath": "views\\cf14eddb-00ba-401d-842f-989a831b68c7.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -447,14 +303,6 @@
             }
         },
         {
-            "Key": "eaccf836-1920-4a33-b4e6-ec5f88354fd0",
-            "Value": {
-                "id": "0fdd5766-5264-459a-9169-a0e369df3140",
-                "resourcePath": "views\\eaccf836-1920-4a33-b4e6-ec5f88354fd0.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "eb6ce428-1b6a-4e9d-96f6-22406e826894",
             "Value": {
                 "id": "20a1e2cb-5166-4b82-936b-1806b3dc29de",
@@ -469,14 +317,6 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
-        },
-        {
-            "Key": "ffcf3a8b-249f-459e-b1cb-5ba97b9df320",
-            "Value": {
-                "id": "517a7ce5-12b1-4c8e-84f7-44a2c5dcfa54",
-                "resourcePath": "scripts\\dssleep_cleanup\\dssleep_cleanup.yy",
-                "resourceType": "GMScript"
-            }
         }
     ],
     "script_order": [
@@ -485,15 +325,7 @@
         "cf680920-1117-442e-893b-7678d21a9c93",
         "780f1e21-89fe-4501-993a-e0480fbfa903",
         "b3a599ac-c278-4c04-bd1e-5383bdd78c0d",
-        "d71649a4-b5a6-4757-b748-ecbd9c591927",
-        "b55eca59-9e54-453c-ba97-e38ffc5dd7d4",
-        "91d20c15-bfe0-47eb-86d1-272a4233e451",
-        "ffcf3a8b-249f-459e-b1cb-5ba97b9df320",
-        "b2e5f0ba-7637-4b2e-afc4-6d2b2e1c71d1",
-        "52542f6c-ace7-4803-ac29-68f9f8f91915",
-        "be6377bb-8285-4c98-b4a6-f85ef40dbf7e",
-        "27b9d127-9e6b-49cd-8bca-8229e33f6eaf",
-        "968e3559-8468-4699-9c7d-f768a747e1b1"
+        "d71649a4-b5a6-4757-b748-ecbd9c591927"
     ],
     "tutorial": ""
 }
