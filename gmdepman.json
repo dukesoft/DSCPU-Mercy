@@ -1,0 +1,11 @@
+{
+    "name": "dukesoft/dscpu-mercy",
+    "description": "Sleeps the CPU for the remainder of the frame to save resources",
+    "license": "MIT",
+    "homepage": "https://github.com/dukesoft/DSCPU-Mercy",
+    "yyp": "DSCPU Mercy.yyp",
+    "version": "1.1.0",
+    "require": {
+        "dukesoft/dssleep": "^1.0"
+    }
+}
