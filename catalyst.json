@@ -5,6 +5,7 @@
     "homepage": "https://github.com/dukesoft/DSCPU-Mercy",
     "yyp": "DSCPU Mercy.yyp",
     "require": {
-        "gamemakerhub/extended-functions": "^1.0"
+        "gamemakerhub/extended-functions": "^1.0",
+        "dukesoft/dssleep": "*"
     }
 }
