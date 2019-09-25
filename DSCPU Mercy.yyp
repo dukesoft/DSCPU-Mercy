@@ -743,6 +743,14 @@
             }
         },
         {
+            "Key": "c480fb32-8e39-48fb-8578-d43bb94e073a",
+            "Value": {
+                "id": "9bb452d2-b201-41e2-9a5b-76ad7911ab82",
+                "resourcePath": "views\\c480fb32-8e39-48fb-8578-d43bb94e073a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c86e7bc6-ae4a-4b5c-b1fc-464149a0a693",
             "Value": {
                 "id": "c86e7bc6-ae4a-4b5c-b1fc-464149a0a693",
@@ -852,6 +860,14 @@
                 "id": "efc2afd5-41de-4c26-a080-67a0882644cf",
                 "resourcePath": "scripts\\extract_header_from_string\\extract_header_from_string.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f1dd6417-804c-4e02-b61d-a8fc0e52346d",
+            "Value": {
+                "id": "751493c9-12dd-425e-93ae-a03b1b6043db",
+                "resourcePath": "datafiles_yy\\testgroup\\another group\\icon.ico.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
