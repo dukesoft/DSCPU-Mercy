@@ -27,4 +27,4 @@ dscpu_set_tightness() //Simple multiplier on the calculated time. Usually 0.9. T
 ```
 
 ### Screenshot
-![Screenshot of DSCPU Mercy in action](screenshot.png)
+![Screenshot of DSCPU Mercy in action](https://github.com/dukesoft/DSCPU-Mercy/raw/master/screenshot.png)
