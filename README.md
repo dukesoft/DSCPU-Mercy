@@ -12,6 +12,10 @@ On my real game server, it dropped usage from 100% to 10-14%.
 Please note that profiling will not work right with this extension enabled (the waiting time is also shown in the 
 profiler, giving weird numbers).
 
+### Version support
+For GMS2.2 and below, use 1.3.2.
+For GMS2.3, GM-LTS and GM2024, use 1.4.0
+
 ### Supported systems
 Windows and Linux. C++ source is included.
 
