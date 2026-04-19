@@ -15,9 +15,67 @@
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"settings","folderPath":"folders/Scripts/settings.yy","name":"settings","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"vendor","folderPath":"folders/vendor.yy","name":"vendor","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"dukesoft","folderPath":"folders/vendor/dukesoft.yy","name":"dukesoft","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"dssleep","folderPath":"folders/vendor/dukesoft/dssleep.yy","name":"dssleep","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/vendor/dukesoft/dssleep/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"main","folderPath":"folders/vendor/dukesoft/dssleep/Scripts/main.yy","name":"main","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"sleep","folderPath":"folders/vendor/dukesoft/dssleep/Scripts/sleep.yy","name":"sleep","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/vendor/dukesoft/dssleep/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/vendor/dukesoft/dssleep/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"gamemakerhub","folderPath":"folders/vendor/gamemakerhub.yy","name":"gamemakerhub","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"extended-functions","folderPath":"folders/vendor/gamemakerhub/extended-functions.yy","name":"extended-functions","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"testfunctions","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/testfunctions.yy","name":"testfunctions","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"dechexfunctions","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/dechexfunctions.yy","name":"dechexfunctions","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"stringfunctions","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/stringfunctions.yy","name":"stringfunctions","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"general","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/general.yy","name":"general","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"find_instances","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/find_instances.yy","name":"find_instances","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"binary","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/binary.yy","name":"binary","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"http","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/http.yy","name":"http","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
+    {"$GMFolder":"","%Name":"animations and tweening","folderPath":"folders/vendor/gamemakerhub/extended-functions/Scripts/animations and tweening.yy","name":"animations and tweening","resourceType":"GMFolder","resourceVersion":"2.0","tags":[
+        "catalyst-vendor",
+      ],},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"DSSleep.dll","CopyToMask":35218731827264,"filePath":"datafiles","name":"DSSleep.dll","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"DSSleep.so","CopyToMask":128,"filePath":"datafiles","name":"DSSleep.so","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -37,6 +95,39 @@
     {"id":{"name":"dscpu_set_grace","path":"scripts/dscpu_set_grace/dscpu_set_grace.yy",},},
     {"id":{"name":"dscpu_set_tightness","path":"scripts/dscpu_set_tightness/dscpu_set_tightness.yy",},},
     {"id":{"name":"dscpu_example_sprite","path":"sprites/dscpu_example_sprite/dscpu_example_sprite.yy",},},
+    {"id":{"name":"dssleep_init","path":"scripts/dssleep_init/dssleep_init.yy",},},
+    {"id":{"name":"dssleep_is_initialized","path":"scripts/dssleep_is_initialized/dssleep_is_initialized.yy",},},
+    {"id":{"name":"dssleep_cleanup","path":"scripts/dssleep_cleanup/dssleep_cleanup.yy",},},
+    {"id":{"name":"dssleep_nanoseconds","path":"scripts/dssleep_nanoseconds/dssleep_nanoseconds.yy",},},
+    {"id":{"name":"dssleep_microseconds","path":"scripts/dssleep_microseconds/dssleep_microseconds.yy",},},
+    {"id":{"name":"dssleep_milliseconds","path":"scripts/dssleep_milliseconds/dssleep_milliseconds.yy",},},
+    {"id":{"name":"dssleep_seconds","path":"scripts/dssleep_seconds/dssleep_seconds.yy",},},
+    {"id":{"name":"dssleep_minutes","path":"scripts/dssleep_minutes/dssleep_minutes.yy",},},
+    {"id":{"name":"_dssleep_main","path":"objects/_dssleep_main/_dssleep_main.yy",},},
+    {"id":{"name":"dssleep_example","path":"objects/dssleep_example/dssleep_example.yy",},},
+    {"id":{"name":"dssleep_example_room","path":"rooms/dssleep_example_room/dssleep_example_room.yy",},},
+    {"id":{"name":"test_suite_end","path":"scripts/test_suite_end/test_suite_end.yy",},},
+    {"id":{"name":"test_suite_init","path":"scripts/test_suite_init/test_suite_init.yy",},},
+    {"id":{"name":"test_assert_same","path":"scripts/test_assert_same/test_assert_same.yy",},},
+    {"id":{"name":"dectohex","path":"scripts/dectohex/dectohex.yy",},},
+    {"id":{"name":"hextodec","path":"scripts/hextodec/hextodec.yy",},},
+    {"id":{"name":"string_explode","path":"scripts/string_explode/string_explode.yy",},},
+    {"id":{"name":"array_implode","path":"scripts/array_implode/array_implode.yy",},},
+    {"id":{"name":"string_reverse","path":"scripts/string_reverse/string_reverse.yy",},},
+    {"id":{"name":"string_mask","path":"scripts/string_mask/string_mask.yy",},},
+    {"id":{"name":"url_encode","path":"scripts/url_encode/url_encode.yy",},},
+    {"id":{"name":"url_decode","path":"scripts/url_decode/url_decode.yy",},},
+    {"id":{"name":"string_prepend","path":"scripts/string_prepend/string_prepend.yy",},},
+    {"id":{"name":"string_append","path":"scripts/string_append/string_append.yy",},},
+    {"id":{"name":"round_whole","path":"scripts/round_whole/round_whole.yy",},},
+    {"id":{"name":"netevent_to_string","path":"scripts/netevent_to_string/netevent_to_string.yy",},},
+    {"id":{"name":"debug_log","path":"scripts/debug_log/debug_log.yy",},},
+    {"id":{"name":"get_nearest_instances","path":"scripts/get_nearest_instances/get_nearest_instances.yy",},},
+    {"id":{"name":"get_furthest_instances","path":"scripts/get_furthest_instances/get_furthest_instances.yy",},},
+    {"id":{"name":"bit_from_byte","path":"scripts/bit_from_byte/bit_from_byte.yy",},},
+    {"id":{"name":"extract_header_from_string","path":"scripts/extract_header_from_string/extract_header_from_string.yy",},},
+    {"id":{"name":"pulse","path":"scripts/pulse/pulse.yy",},},
+    {"id":{"name":"color_lerp","path":"scripts/color_lerp/color_lerp.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
