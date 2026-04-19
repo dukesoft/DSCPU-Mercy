@@ -1,8 +1,13 @@
 {
-    "id": "780f1e21-89fe-4501-993a-e0480fbfa903",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "dscpu_set_debug",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"dscpu_set_debug",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dscpu_set_debug",
+  "parent":{
+    "name":"settings",
+    "path":"folders/Scripts/settings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,8 +1,13 @@
 {
-    "id": "d71649a4-b5a6-4757-b748-ecbd9c591927",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "dscpu_set_tightness",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"dscpu_set_tightness",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dscpu_set_tightness",
+  "parent":{
+    "name":"settings",
+    "path":"folders/Scripts/settings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":12,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":13,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":8,"path":"folders/Scripts.yy",},
+    {"name":"settings","order":3,"path":"folders/Scripts/settings.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"dscpu_example_mover","order":3,"path":"objects/dscpu_example_mover/dscpu_example_mover.yy",},
+    {"name":"dscpu_obj_begin","order":2,"path":"objects/dscpu_obj_begin/dscpu_obj_begin.yy",},
+    {"name":"dscpu_obj_end","order":1,"path":"objects/dscpu_obj_end/dscpu_obj_end.yy",},
+    {"name":"dscpu_active","order":1,"path":"scripts/dscpu_active/dscpu_active.yy",},
+    {"name":"dscpu_destroy","order":2,"path":"scripts/dscpu_destroy/dscpu_destroy.yy",},
+    {"name":"dscpu_set_grace","order":1,"path":"scripts/dscpu_set_grace/dscpu_set_grace.yy",},
+    {"name":"dscpu_set_tightness","order":2,"path":"scripts/dscpu_set_tightness/dscpu_set_tightness.yy",},
+  ],
+}
